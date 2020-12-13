@@ -10,7 +10,7 @@ export const moviesQuery = gql`
       rate
       director {
         name
-        age
+        id
       }
     }
   }
